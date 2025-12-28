@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @samaabosair
-- 👀 I am very interested in creativity and achieving beauty in my programming codes.
-- 🌱 I am currently learning React, React Native, HTML, Expo App, Node.js, Express, and everything related to Front End, CSS, style, and JavaScript.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @samaabosair
 
-<!---
-samaabosair/samaabosair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I am passionate about creativity and making my programming projects visually appealing and user-friendly.
+
+🌱 I am currently learning and working with:  
+- **Frontend:** React.js, React Native, HTML5, CSS3, Tailwind CSS  
+- **Backend basics:** Node.js, Express.js  
+- **Tools & Platforms:** Expo, Git, GitHub  
+
+💞️ I’m looking to collaborate on projects related to **Web and Mobile Frontend Development**, UI/UX improvements, and innovative applications.
+
+📫 How to reach me: samaabusair12@gmail.com  
+
+✨ Welcome to my GitHub profile! Feel free to explore my repositories and projects.
