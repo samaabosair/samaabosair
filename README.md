@@ -1,43 +1,80 @@
-# 👋 Hi, I’m Sama Abusair!
+# 👋 Hi, I'm Sama Abusair!
 
-💻 I’m a Computer Engineering graduate who enjoys building creative, functional, and user-friendly applications.
+💻 Computer Engineering graduate interested in **Software Development, Full-Stack Development, Mobile Applications, and UI/UX**.
 
-🎨 I’m passionate about creating visually appealing interfaces and turning ideas into practical software solutions.
+🎨 I enjoy building applications that are not only functional, but also **creative, intuitive, and user-friendly**.
 
-🌱 I’m currently learning and working with:
+🌱 **What I work with**
 
-**💻 Programming Languages:** JavaScript, TypeScript, Python, Java, C++, PHP, SQL
+**Languages:** JavaScript · TypeScript · Python · Java · C++ · PHP · SQL
 
-**🌐 Web Development:** HTML5, CSS3, JavaScript, React.js, JSX, Vite, React Router, Responsive Web Design, Local Storage
+**Web:** HTML5 · CSS3 · React.js · JSX · Vite · React Router · Responsive Design · Local Storage
 
-**📱 Mobile Development:** React Native, Expo, Expo Router, React Navigation, TypeScript, Firebase, Push Notifications
+**Mobile:** React Native · Expo · Expo Router · React Navigation · Firebase · Push Notifications
 
-**⚙️ Backend Development:** Node.js, Express.js, REST APIs, API Routing, Controllers, Middleware, Authentication, Authorization, CRUD Operations, Error Handling, File Uploads
+**Backend:** Node.js · Express.js · REST APIs · Authentication · Authorization · Middleware · CRUD · File Uploads
 
-**🧪 Software Testing & Automation:** Java, Gherkin, Cypress, Test Automation, Test Cases, Maven, GitHub Actions, CI/CD
+**Databases:** MongoDB · Mongoose · MongoDB Atlas · SQL · Relational Databases
 
-**🗄️ Databases:** MongoDB, Mongoose, MongoDB Atlas, SQL, Relational Databases, Database Queries, Database Design
+**Testing:** Java · Gherkin · Cypress · Test Automation · Test Cases · Maven · GitHub Actions · CI/CD
 
-**🔗 APIs & Services:** REST APIs, External API Integration, JSON, Postman, Cloudinary, Firebase, API Testing
+**APIs & Services:** Postman · REST APIs · External APIs · JSON · Cloudinary · Firebase · API Testing
 
-**📂 File & Media Handling:** Multer, Cloudinary, Image Uploads, File Uploads, PDF Handling
+**UI/UX:** Figma · Wireframing · Prototyping · UI Design · Responsive Interfaces
 
-**🎨 UI / UX & Design:** Figma, UI Design, Wireframing, Prototyping, Responsive Interface Design, User-Friendly Interfaces
+**Creative Tools:** Canva · Adobe Photoshop · CapCut
 
-**🎬 Creative & Content Tools:** Canva, Adobe Photoshop, CapCut
+**Tools:** Git · GitHub · VS Code · npm · Expo CLI · EAS · Vercel · IntelliJ IDEA
 
-**🛠️ Tools & Platforms:** Git, GitHub, Visual Studio Code, npm, Expo CLI, EAS, Vercel, Postman
+---
 
-**🧠 Software Development:** Object-Oriented Programming, Client-Server Architecture, RESTful APIs, Component-Based Development, State Management, Authentication & Authorization, Database Management, API Integration, Debugging, Version Control
+## 🚀 What I've Worked On
 
-🚀 I’ve worked on projects involving **Web Development, Mobile Development, Backend Development, Databases, APIs, Authentication, File & Image Uploads, and Deployment.**
+- 🌐 Web applications using **HTML, CSS, JavaScript, React, and PHP**
+- 📱 Mobile applications using **React Native and Expo**
+- ⚙️ Backend systems using **Node.js and Express.js**
+- 🗄️ Applications connected to **MongoDB and SQL databases**
+- 🔗 REST APIs and external API integrations
+- 🔐 Authentication, authorization, and middleware
+- 📂 Image, PDF, and file uploads using **Multer and Cloudinary**
+- 🧪 Automated testing using **Cypress, Gherkin, and Java**
+- 🚀 Deploying applications using **Vercel and EAS**
+- 🎨 UI design and prototyping using **Figma**
 
-💞️ I’m interested in collaborating on projects related to **Web & Mobile Development, Full-Stack Applications, UI/UX, and innovative software solutions.**
+---
 
-🤖 I’m also interested in exploring **Artificial Intelligence, Machine Learning, and Data Science.**
+## ⭐ Featured Projects
+
+### TalentBridge — Graduation Project
+
+A mobile mentorship and collaboration platform connecting junior developers with senior developers.
+
+**React Native · Expo · Node.js · Express.js · MongoDB · Mongoose · Cloudinary · Firebase · REST APIs**
+
+[View Project](https://github.com/WA-A/TalentBridge-Graduation-Project-Software)
+
+### EXALT Front-End Training 2025
+
+A collection of web development projects and tasks completed during my Front-End Development Training at EXALT.
+
+**React.js · JavaScript · HTML5 · CSS3 · Vite · React Router**
+
+[View Training Repository](https://github.com/samaabosair/ExaltFETraining2025)
+
+---
+
+## 🤖 Currently Exploring
+
+Artificial Intelligence · Machine Learning · Data Science · Full-Stack Development · Modern Web Technologies
+
+---
+
+## 💞️ I'm Interested In
+
+Collaborating on **Web Development, Mobile Development, Full-Stack Applications, Software Testing, UI/UX, and innovative software projects.**
 
 📚 I enjoy learning new technologies, building practical projects, and continuously improving my development skills.
 
-📫 How to reach me: **samaabusair12@gmail.com**
+📫 **Let's connect:** samaabusair12@gmail.com
 
-✨ Welcome to my GitHub profile! Feel free to explore my repositories and projects.
+✨ Feel free to explore my repositories and projects!
