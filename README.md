@@ -53,6 +53,8 @@ A mobile mentorship and collaboration platform connecting junior developers with
 
 [View Project](https://github.com/WA-A/TalentBridge-Graduation-Project-Software)
 
+---
+
 ### EXALT Front-End Training 2025
 
 A collection of web development projects and tasks completed during my Front-End Development Training at EXALT.
