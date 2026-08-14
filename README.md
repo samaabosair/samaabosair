@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sama Abusair!
+# 👋 Hi, I'm Sama Abosair!
 
 💻 Computer Engineering graduate interested in **Software Development, Full-Stack Development, Mobile Applications, and UI/UX**.
 
