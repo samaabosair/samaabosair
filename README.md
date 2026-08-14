@@ -14,6 +14,8 @@
 
 **⚙️ Backend Development:** Node.js, Express.js, REST APIs, API Routing, Controllers, Middleware, Authentication, Authorization, CRUD Operations, Error Handling, File Uploads
 
+**🧪 Software Testing & Automation:** Java, Gherkin, Cypress, Test Automation, Test Cases, Maven, GitHub Actions, CI/CD
+
 **🗄️ Databases:** MongoDB, Mongoose, MongoDB Atlas, SQL, Relational Databases, Database Queries, Database Design
 
 **🔗 APIs & Services:** REST APIs, External API Integration, JSON, Postman, Cloudinary, Firebase, API Testing
