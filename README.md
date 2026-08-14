@@ -62,11 +62,23 @@ A collection of web development projects and tasks completed during my Front-End
 [View Training Repository](https://github.com/samaabosair/ExaltFETraining2025)
 
 ---
+
+### Manhwa & Manga Website
+A full-stack database-driven web application for browsing and managing Manhwa and Manga content, including authentication, admin management, CRUD operations, search, and file uploads.
+
+**PHP · MySQL · SQL · HTML · CSS · JavaScript · Bootstrap · jQuery**
+
+[View Repository](https://github.com/samaabosair/WEB-PROJECT-MANHWA-MANGA-WEBSITE)
+
+---
 ### HalaCar Test Automation
-Java-based BDD testing project...
+A Java-based acceptance testing project using BDD principles to test authentication, products, orders, notifications, installation requests, and user roles.
+
+**Java · Cucumber · Gherkin · JUnit · Maven · JaCoCo · SonarCloud · GitHub Actions**
 
 [View Repository](https://github.com/SLcar/HalaCarTest)
 
+---
 
 ## 🤖 Currently Exploring
 
