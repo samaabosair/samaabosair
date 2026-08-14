@@ -62,6 +62,11 @@ A collection of web development projects and tasks completed during my Front-End
 [View Training Repository](https://github.com/samaabosair/ExaltFETraining2025)
 
 ---
+### HalaCar Test Automation
+Java-based BDD testing project...
+
+[View Repository](https://github.com/samaabosair/SLcar/HalaCarTest)
+
 
 ## 🤖 Currently Exploring
 
