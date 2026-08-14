@@ -5,7 +5,7 @@
 🌱 I am currently learning and working with:  
 - **Frontend:** React.js, React Native, HTML5, CSS3, Tailwind CSS  
 - **Backend basics:** Node.js, Express.js  
-- **Tools & Platforms:** Expo, Git, GitHub  
+- **Tools & Platforms:** Expo, Git, GitHub, Figma
 
 💞️ I’m looking to collaborate on projects related to **Web and Mobile Frontend Development**, UI/UX improvements, and innovative applications.
 
