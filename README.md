@@ -65,7 +65,7 @@ A collection of web development projects and tasks completed during my Front-End
 ### HalaCar Test Automation
 Java-based BDD testing project...
 
-[View Repository](https://github.com/samaabosair/SLcar/HalaCarTest)
+[View Repository](https://github.com/SLcar/HalaCarTest)
 
 
 ## 🤖 Currently Exploring
