@@ -42,6 +42,17 @@
 - 🎨 UI design and prototyping using **Figma**
 
 ---
+## 🎓 Education
+
+**B.Sc. in Computer Engineering**  
+*University* : An-Najah international university 
+[Certification ](https://drive.google.com/file/d/11YICFDEGNKQFy59ZWJ3OIEWWujxomuzN/view?usp=drive_link)
+
+## 📜 Certifications & Training
+
+- **Front-End Development Training** — EXALT [Certification ] (https://drive.google.com/file/d/1D15wDnwLM2epFtlDbxZMiB6o63pDpRdl/view?usp=sharing)
+- **Front-End Development Training** — Udacity [Certification ] (https://drive.google.com/file/d/1ezcVVYAOXOe0yIioRvTAeeavQc2tIjhp/view?usp=sharing)
+---
 
 ## ⭐ Featured Projects
 
